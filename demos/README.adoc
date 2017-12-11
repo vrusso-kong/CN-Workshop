@@ -1,4 +1,4 @@
-= Labs Content
+= Demos Content
 
  * Demo 1: link:demos/demo01[Building A Spring Boot Application]
  * Demo 2: link:demos/demo02[Build a Hypermedia-Driven RESTful Web Service with Spring Data REST]
