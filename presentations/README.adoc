@@ -1,6 +1,6 @@
 = Presentation Content
 
- * Intro: link:Intro_CF_at_DE.pptx[_Pivotal Cloud Foundry at Duke Energy_]
+ * Intro: link:Intro_CF.pptx[_Pivotal Cloud Foundry]
  * Session 1: link:Session_1_Alt_Getting_Started_With_Microservices.pptx[_Cloud Native Design with Microservices_]
  * Session 2: link:Session_2_Intro_Boot.pptx[_Introducing Spring Boot_]
  * Session 3: link:Session_3_Polyglot_Persist.pptx[_Polyglot Persistence with Spring Data REST_]
