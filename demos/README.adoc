@@ -1,1 +1,8 @@
 = Labs Content
+
+ * Demo 1: link:demos/demo01[Building A Spring Boot Application]
+ * Demo 2: link:demos/demo02[Build a Hypermedia-Driven RESTful Web Service with Spring Data REST]
+ * Demo 3: link:demos/demo03[Enhancing Boot Application with Metrics]
+ * Demo 4: link:demos/demo04[Introducing Spring Cloud into Boot Application]
+ * Demo 5: link:demos/demo05[Microservice Service Discover and Load Balancing]
+ * Demo 6: link:demos/demo06[Microservice Fault Tolerance with Circuit Breakers]
