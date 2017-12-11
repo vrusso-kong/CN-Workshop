@@ -1,0 +1,34 @@
+= Pivotal Cloud Native Applications Workshop
+== Overview
+[.lead]
+This one day classroom style session will provide developers with an introduction to building cloud native applications using microservice architectures, Spring Boot, and Spring Cloud Services. The sessions include presentations, demos and hands on labs.
+
+== Schedule
+
+9:00 AM - 9:30 AM::
+ * Welcome and Agenda
+ * Pivotal Cloud Foundry Recap: link:presentations/Session_0-Pivotal%20CF%20Intro%20%26%20Fundamentals.pptx[_PCF Intro and Fundamentals_]
+9:30 AM - 10:30 AM::
+ * Section 1: link:presentations/Session_1_Alt_Getting_Started_With_Microservices.pptx[_Cloud Native Design with Microservices_]
+10:30 AM - 10:45 AM:: Break
+10:45 AM - 12:00 PM::
+ * Session 2: link:presentations/Session_2_Intro_Boot.pptx[_Introducing Spring Boot_]
+ * Demo 1: link:demos/demo01[Building A Spring Boot Application]
+ * Session 3: link:presentations/Session_3_Polyglot_Persist.pptx[_Polyglot Persistence with Spring Data REST_]
+ * Demo 2: link:demos/demo02[Build a Hypermedia-Driven RESTful Web Service with Spring Data REST]
+12:00 PM - 12:45 PM:: Lunch
+12:45 PM - 1:30 PM::
+ * Session 4: link:presentations/Session_4_Advanced_Boot.pptx[_Advancing Spring Boot with Actuator and Profiles_]
+ * Demo 3: link:demos/demo03[Enhancing Boot Application with Metrics]
+1:30 PM - 2:45 PM::
+ * Session 5: link:presentations/Session_5_Intro_SC.pptx[_Introducing Spring Cloud Netflix_]
+ * Session 6: link:presentations/Session_6_SC_Config.pptx[_Spring Cloud Config_]
+ * Demo 4: link:demos/demo04[Introducing Spring Cloud into Boot Application]
+2:45 PM - 3:00 PM:: Break
+3:00 PM - 3:45 PM::
+ * Session 7: link:presentations/Session_7_SC_Discovery_LB.pptx[_Spring Cloud Netflix - Service Discovery & Load Balancing_]
+ * Demo 5: link:demos/demo05[Microservice Service Discover and Load Balancing]
+3:45 PM - 4:30 PM::
+ * Session 8: link:presentations/Session_8_Circuit_Breaker.pptx[_Spring Cloud Netflix - Circuit Breakers_]
+ * Demo 6: link:demos/demo06[Microservice Fault Tolerance with Circuit Breakers]
+4:30 PM:: Wrap-Up and Closing

@@ -1,0 +1,11 @@
+= Presentation Content
+
+ * Intro: link:Intro_CF_at_DE.pptx[_Pivotal Cloud Foundry at Duke Energy_]
+ * Session 1: link:Session_1_Alt_Getting_Started_With_Microservices.pptx[_Cloud Native Design with Microservices_]
+ * Session 2: link:Session_2_Intro_Boot.pptx[_Introducing Spring Boot_]
+ * Session 3: link:Session_3_Polyglot_Persist.pptx[_Polyglot Persistence with Spring Data REST_]
+ * Session 4: link:Session_4_Advanced_Boot.pptx[_Advancing Spring Boot with Actuator and Profiles_]
+ * Session 5: link:Session_5_Intro_SC.pptx[_Introducing Spring Cloud Netflix_]
+ * Session 6: link:Session_6_SC_Config.pptx[_Spring Cloud Config_]
+ * Session 7: link:Session_7_SC_Discovery_LB.pptx[_Spring Cloud Netflix - Service Discovery & Load Balancing_]
+ * Session 8: link:Session_8_Circuit_Breaker.pptx[_Spring Cloud Netflix - Circuit Breakers_]
