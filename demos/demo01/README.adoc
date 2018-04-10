@@ -4,7 +4,7 @@
 
 . Browse to https://start.spring.io
 
-. Generate a Maven Project with Spring Boot 1.5.7.
+. Generate a *Maven Project* with *Spring Boot 1.5.11*. (You'll need to switch the drop down manually, as the default is now pointing to 2.0.1)
 
 . Fill out the *Project metadata* fields as follows:
 +
@@ -13,7 +13,7 @@ Artifact:: +cloud-native-spring+
 
 . In the dependencies section, add the following manually:
 +
-*Web* *Rest Repositories* *JPA* *H2* *Actuator*
+*[Web]* *[Rest Repositories]* *[JPA]* *[H2]* *[Actuator]*
 
 . Click the _Generate Project_ button. Your browser will download a zip file.
 
@@ -48,7 +48,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@RestController
+@RestController         // <-- Add this!
 public class CloudNativeSpringApplication {
 
     public static void main(String[] args) {
